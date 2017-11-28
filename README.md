@@ -33,6 +33,11 @@
 
 [Twelve Years of Unsupervised Dependency Parsing](http://ceur-ws.org/Vol-1649/56.pdf)
 
+
+# Abstract Meaning Representation
+[Wiki](https://en.wikipedia.org/wiki/Abstract_Meaning_Representation)
+[Data](https://amr.isi.edu/)
+
 # Graph Isomorphism
 
 [Wiki](https://en.wikipedia.org/wiki/Subgraph_isomorphism_problem)
