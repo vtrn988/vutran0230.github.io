@@ -27,8 +27,7 @@
 
 [Punctuation: making a point in unsupervised dependency parsing](https://dl.acm.org/citation.cfm?id=2018939)
 
-[Neutralizing linguistically problematic annotations in unsupervised dependency parsing evaluation](https://dl.acm.org/citation.cfm?
-id=2002557)
+[Neutralizing linguistically problematic annotations in unsupervised dependency parsing evaluation](https://dl.acm.org/citation.cfm?id=2002557)
 
 [From baby steps to Leapfrog: how "Less is More" in unsupervised dependency parsing](https://dl.acm.org/citation.cfm?id=1858115)
 
