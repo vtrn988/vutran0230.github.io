@@ -15,6 +15,8 @@
 
 [Neural Word Embedding as Implicit Matrix Factorization](http://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization)
 
+[Benchmark](https://github.com/kudkudak/word-embeddings-benchmarks/wiki)
+
 # (Unsupervised) Dependency Parsing
 
 ## 2004
